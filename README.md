@@ -1,6 +1,8 @@
-## example.cfw.guide
+## ps2.cfw.guide
 
-An example repo to build cfw.guide sites from 
+Modding guide for the PS2.
+
+https://ps2.emiyl.com/
 
 ## Running the site locally
 
@@ -10,8 +12,8 @@ This requires the following installed to your system:
 
 To test the website locally, simply run the following commands:
 ```
-git clone https://github.com/example.cfw.guide.git --recursive
-cd example.cfw.guide
+git clone https://github.com/ps2.cfw.guide.git --recursive
+cd ps2.cfw.guide
 yarn install
 yarn dev
 ```

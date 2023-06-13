@@ -1,6 +1,6 @@
 ---
 title: "Credits"
-description: The writers and contributors to example.cfw.guide.
+description: The writers and contributors to ps2.cfw.guide.
 ---
 
 <div>

@@ -28,7 +28,7 @@ module.exports = [
       '/credits',
       {
         text: 'Source',
-        link: 'https://github.com/cfw-guide/example.cfw.guide/',
+        link: 'https://github.com/cfw-guide/ps2.cfw.guide/',
       },
       '/site-navigation/',
     ],
